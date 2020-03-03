@@ -79,6 +79,28 @@ En el archivo package.json, "scripts", para no escribir toda la ruta, creamos un
   },
 ```
 
+### 5. Peticiones a la API usando callbacks
+```bash
+$ npm install xmlhttprequest --save
+
+```
+
+### 6. Múltiples Peticiones a un API con Callbacks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
